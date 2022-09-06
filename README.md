@@ -18,7 +18,7 @@
 ---
 
 ## Short View of Website
-![Desktop](./screenshot/10Project.png)
+![Desktop](./screenshot/10project.png)
 
 ---
 
